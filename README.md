@@ -1,5 +1,5 @@
 # DemoTestingPublic
- Public repositiry of my private VDC demo routine learning and practice zone.
+ Public repository of my private VDC demo routine learning and practice zone.
 
 Note:
 - Practice code and unfinished, so probably can be hugely improved and not guaranteed functional. Feel free to learn from it, but at your own risk.
